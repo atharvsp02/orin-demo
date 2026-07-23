@@ -1,3 +1,3 @@
 # Worker observability
 
-Document queue depth metrics, retry counts, and alert ownership.
+Document queue depth metrics, retry counts, alert ownership, and dashboard links.
